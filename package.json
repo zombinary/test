@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "react-dom": "^16.8.0",
+    "react": "^16.8.0",
+    "@patternfly/react-core": "3.124.1"
+  },
+  "name": "9u6o9",
+  "description": null,
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
